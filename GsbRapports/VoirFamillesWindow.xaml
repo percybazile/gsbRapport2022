@@ -1,0 +1,18 @@
+﻿<Window x:Class="GsbRapports.VoirFamillesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GsbRapports"
+        mc:Ignorable="d"
+        Title="Voir les Familles" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dtgfamilles" AutoGenerateColumns="False" Margin="296,50,246,22"  AlternatingRowBackground = "LightBlue" Width="250" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Libellé"  
+                                    Binding="{Binding libelle}" Foreground="#FFF17B7B"/>
+
+                </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
