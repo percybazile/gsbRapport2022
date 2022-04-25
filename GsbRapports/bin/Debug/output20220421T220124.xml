@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>Demande du mÃ©decin</motif>
+  <bilan>Pas trÃ¨s aimable</bilan>
+  <date>2021-06-06T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>Cacheux</nomVisiteur>
+  <prenomVisiteur>Bernard</prenomVisiteur>
+  <nomMedecin>AGUENI</nomMedecin>
+  <prenomMedecin>Roby</prenomMedecin>
+</Rapport><?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>recommandation de confrÃ¨re</motif>
+  <bilan>Visite positive</bilan>
+  <date>2021-06-07T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>Dudouit</nomVisiteur>
+  <prenomVisiteur>FrÃ©dÃ©ric</prenomVisiteur>
+  <nomMedecin>AGUENI</nomMedecin>
+  <prenomMedecin>Roby</prenomMedecin>
+</Rapport><?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>Demande du mÃ©decin</motif>
+  <bilan>TrÃ¨s intÃ©ressÃ© par les produits prÃ©sentÃ©s</bilan>
+  <date>2021-11-17T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>Eynde</nomVisiteur>
+  <prenomVisiteur>ValÃ©rie</prenomVisiteur>
+  <nomMedecin>AGUENI</nomMedecin>
+  <prenomMedecin>Roby</prenomMedecin>
+</Rapport>

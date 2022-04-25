@@ -29,6 +29,10 @@ namespace dllRapportVisites
             this.nomVisiteur = nomVisiteur;
             
         }
+        public Rapport()
+        {
+
+        }
 
     }
 }

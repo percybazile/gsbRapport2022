@@ -7,12 +7,8 @@
         mc:Ignorable="d"
         Title="Voir les Familles" Height="450" Width="800">
     <Grid>
-        <DataGrid x:Name="dtgfamilles" AutoGenerateColumns="False" Margin="296,50,246,22"  AlternatingRowBackground = "LightBlue" Width="250" >
-            <DataGrid.Columns>
-                <DataGridTextColumn Header="Libellé"  
-                                    Binding="{Binding libelle}" Foreground="#FFF17B7B"/>
-
-                </DataGrid.Columns>
+        <DataGrid x:Name="dtgfamilles" Height="200" Width="300">
+            
         </DataGrid>
     </Grid>
 </Window>

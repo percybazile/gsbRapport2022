@@ -1,0 +1,33 @@
+﻿<Window x:Class="GsbRapports.gererMedecins"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GsbRapports"
+        mc:Ignorable="d"
+        Title="gererMedecins" Height="450" Width="800">
+    <Grid>
+
+        <TextBox x:Name="txtnom" HorizontalAlignment="Left" Margin="18,24,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Button Content="Valider" HorizontalAlignment="Left" Margin="159,23,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <DataGrid x:Name="dtgmedecins" Margin="18,61,456,32"/>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="489,87,0,0" TextWrapping="Wrap" Text="id:" VerticalAlignment="Top" Visibility="Collapsed"/>
+        <TextBox x:Name="txtid" HorizontalAlignment="Left" Margin="507,85,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="59" Text="{Binding SelectedItem.id, ElementName=dtgmedecins}" Visibility="Collapsed"/>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="458,115,0,0" TextWrapping="Wrap" Text="adresse:" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtadr" HorizontalAlignment="Left" Margin="505,114,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="274" Text="{Binding SelectedItem.adresse, ElementName=dtgmedecins}"/>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="430,148,0,0" TextWrapping="Wrap" Text="département:" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtdep" HorizontalAlignment="Left" Margin="505,148,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="274" Text="{Binding SelectedItem.departement, ElementName=dtgmedecins}"/>
+        <TextBlock HorizontalAlignment="Center" Text="" x:Name="erreurDep" Foreground="Red" />
+        <TextBlock HorizontalAlignment="Left" Margin="444,207,0,0" TextWrapping="Wrap" Text="téléphone:" VerticalAlignment="Top"/>
+        <TextBox x:Name="txttel" HorizontalAlignment="Left" Margin="505,206,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="274" Text="{Binding SelectedItem.tel, ElementName=dtgmedecins}"/>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="359,266,0,0" TextWrapping="Wrap" Text="spécialité complémentaire:" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtspc" HorizontalAlignment="Left" Margin="505,266,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="274" Text="{Binding SelectedItem.specialiteComplementaire, ElementName=dtgmedecins}"/>
+        
+        <Button Content="Modifier" HorizontalAlignment="Left" Margin="717,344,0,0" VerticalAlignment="Top" Click="Button_Click_1" Width="62"/>
+
+    </Grid>
+</Window>

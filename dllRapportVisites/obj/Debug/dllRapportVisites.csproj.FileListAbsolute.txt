@@ -4,9 +4,48 @@ C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\
 C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CoreCompileInputs.cache
 C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.dll
 C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.pdb
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.dll
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.pdb
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.AssemblyReference.cache
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CoreCompileInputs.cache
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.dll
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.pdb
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.dll
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.pdb
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.AssemblyReference.cache
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CoreCompileInputs.cache
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.dll
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.pdb
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.pdb
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.AssemblyReference.cache
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CoreCompileInputs.cache
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.pdb
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.dll
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.pdb
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignColors.dll
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.AssemblyReference.cache
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CoreCompileInputs.cache
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CopyComplete
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.dll
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.pdb
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\ShowMeTheXAML.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignColors.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\ShowMeTheXAML.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignColors.pdb
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CopyComplete
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.dll
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.pdb
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignColors.dll
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\bin\Debug\ShowMeTheXAML.dll
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignColors.pdb
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.AssemblyReference.cache
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CoreCompileInputs.cache
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CopyComplete
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.dll
+C:\greta\GsbRapportsWPF\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.pdb

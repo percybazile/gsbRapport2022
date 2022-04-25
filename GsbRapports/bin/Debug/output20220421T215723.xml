@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>Demande du mÃ©decin</motif>
+  <bilan>Sur sa rÃ©serve</bilan>
+  <date>2021-06-15T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>FrÃ©mont</nomVisiteur>
+  <prenomVisiteur>Fernande</prenomVisiteur>
+  <nomMedecin>ARRIGHI</nomMedecin>
+  <prenomMedecin>Patricia</prenomMedecin>
+</Rapport><?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>Demande du mÃ©decin</motif>
+  <bilan>Pas en confiance</bilan>
+  <date>2021-06-25T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>De</nomVisiteur>
+  <prenomVisiteur>Philippe</prenomVisiteur>
+  <nomMedecin>ARRIGHI</nomMedecin>
+  <prenomMedecin>Patricia</prenomMedecin>
+</Rapport><?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>Visite annuelle</motif>
+  <bilan>Peu intÃ©ressÃ©</bilan>
+  <date>2022-03-04T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>Debelle</nomVisiteur>
+  <prenomVisiteur>Jeanne</prenomVisiteur>
+  <nomMedecin>ARRIGHI</nomMedecin>
+  <prenomMedecin>Patricia</prenomMedecin>
+</Rapport>

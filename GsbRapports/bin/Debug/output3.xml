@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>Installation nouvelle</motif>
+  <bilan>TrÃ¨s fixÃ© sur les produits utilisÃ©s</bilan>
+  <date>2021-06-10T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>Bunisset</nomVisiteur>
+  <prenomVisiteur>Denise</prenomVisiteur>
+  <nomMedecin>AGNEL</nomMedecin>
+  <prenomMedecin>BÃ©atrice</prenomMedecin>
+</Rapport><?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>recommandation de confrÃ¨re</motif>
+  <bilan>Peu intÃ©ressÃ©</bilan>
+  <date>2022-02-18T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>De</nomVisiteur>
+  <prenomVisiteur>Philippe</prenomVisiteur>
+  <nomMedecin>AGNEL</nomMedecin>
+  <prenomMedecin>BÃ©atrice</prenomMedecin>
+</Rapport>

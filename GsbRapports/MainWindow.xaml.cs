@@ -1,4 +1,4 @@
-﻿ using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Linq;
@@ -95,6 +95,7 @@ namespace GsbRapports
                     MessageBox.Show(((HttpWebResponse)ex.Response).StatusCode.ToString());
 
             }
+
         }
 
         private void MenuItem_Click(object sender, RoutedEventArgs e)
@@ -112,6 +113,26 @@ namespace GsbRapports
         private void MenuItem_Click_2(object sender, RoutedEventArgs e)
         {
             ajoutFamilleWindow w = new ajoutFamilleWindow(this.laSecretaire, this.wb, this.site);
+            w.Show();
+        }
+
+        private void MenuItem_Click_3(object sender, RoutedEventArgs e)
+        {
+            gererMedecins w = new gererMedecins(this.laSecretaire, this.wb, this.site);
+            w.Show();
+        }
+
+       
+
+        private void MenuItem_Click_5(object sender, RoutedEventArgs e)
+        {
+            ajoutMedecin w = new ajoutMedecin(this.laSecretaire, this.wb, this.site);
+            w.Show();
+        }
+
+        private void MenuItem_Click_4(object sender, RoutedEventArgs e)
+        {
+            rapportMedecins w = new rapportMedecins(this.laSecretaire, this.wb, this.site);
             w.Show();
         }
     }

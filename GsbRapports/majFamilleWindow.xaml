@@ -10,11 +10,12 @@
         <StackPanel Margin="0,50,0,0">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
                 <TextBlock Text="Les Familles" Margin="50,0,0,0"/>
-                <ComboBox x:Name="cmbFamille" Margin="30,0,0,0" Width="100"></ComboBox>
-                
+                <ComboBox x:Name="cmbFamille" Margin="30,0,0,0" Width="450"></ComboBox>
+
             </StackPanel>
-            <TextBox x:Name="txtLibFamille" Margin="100,50,0,0" Width="100" HorizontalAlignment="Center"/>
-            <Button x:Name="btnValider" Content="Valider" Margin="0,100,0,0" Width="100"/>
+            <TextBox x:Name="txtLibFamille" Margin="100,50,0,0" Width="455" HorizontalAlignment="Center" DataContext="{Binding ElementName=cmbFamille, Path=SelectedItem}" 
+                             Text="{Binding libelle}" Height="139" Tag="{Binding id}"/>
+            <Button x:Name="btnValider" Content="Valider" Margin="0,100,0,0" Width="100" Click="btnValider_Click"/>
 
 
         </StackPanel>

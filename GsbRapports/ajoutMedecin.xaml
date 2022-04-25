@@ -1,0 +1,36 @@
+﻿<Window x:Class="GsbRapports.ajoutMedecin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GsbRapports"
+        mc:Ignorable="d"
+        Title="ajoutMedecin" Height="450" Width="800">
+    <Grid>
+            <TextBlock HorizontalAlignment="Left" Margin="203,66,0,0" TextWrapping="Wrap" Text="prenom:" VerticalAlignment="Top" Height="24" Width="68" />
+            <TextBox x:Name="txtprenom" HorizontalAlignment="Left" Margin="258,65,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="419" Height="26" />
+
+            <TextBlock HorizontalAlignment="Left" Margin="221,113,0,0" TextWrapping="Wrap" Text="nom:" VerticalAlignment="Top" Height="23" Width="41" />
+            <TextBox x:Name="txtnom" HorizontalAlignment="Left" Margin="262,113,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="418" Height="26" />
+
+            <TextBlock HorizontalAlignment="Left" Margin="209,159,0,0" TextWrapping="Wrap" Text="adresse:" VerticalAlignment="Top" Height="24" Width="66"/>
+            <TextBox x:Name="txtadr" HorizontalAlignment="Left" Margin="260,158,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="420" Height="26" />
+        
+                <TextBlock HorizontalAlignment="Left" Margin="185,207,0,0" TextWrapping="Wrap" Text="département:" VerticalAlignment="Top" Height="23" Width="110"/>
+              <StackPanel Margin="0,193,0,68">
+
+            <TextBox x:Name="txtdep" HorizontalAlignment="Left" Margin="262,10,0,0" TextWrapping="Wrap"  VerticalAlignment="Center" Width="421" Height="26" />
+                <TextBlock HorizontalAlignment="Center" Text="" x:Name="erreurDep" Foreground="Red" />
+            </StackPanel>
+           
+
+            <TextBlock HorizontalAlignment="Left" Margin="197,258,0,0" TextWrapping="Wrap" Text="téléphone:" VerticalAlignment="Top" Height="24" Width="86"/>
+            <TextBox x:Name="txttel" HorizontalAlignment="Left" Margin="258,256,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="421" Height="26" />
+
+            <TextBlock HorizontalAlignment="Left" Margin="110,310,0,0" TextWrapping="Wrap" Text="spécialité complémentaire:" VerticalAlignment="Top" Height="23" Width="218"/>
+            <TextBox x:Name="txtspc" HorizontalAlignment="Left" Margin="258,310,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="421" Height="26" />
+        
+        
+        <Button Content="Ajouter" HorizontalAlignment="Left" Margin="710,361,0,0" VerticalAlignment="Top" Height="24" Width="63" Click="Button_Click"/>
+    </Grid>
+</Window>

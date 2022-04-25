@@ -12,9 +12,10 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using dllRapportVisites;
-using Newtonsoft.Json;
 using System.Net;
+using Newtonsoft.Json;
 using System.Collections.Specialized;
+
 
 namespace GsbRapports
 {
@@ -26,50 +27,48 @@ namespace GsbRapports
         private Secretaire laSecretaire;
         private WebClient wb;
         private string site;
-        public majFamilleWindow(Secretaire s, WebClient w, string site)
+        public majFamilleWindow(Secretaire laSecretaire,WebClient wb,string site)
         {
+            
             InitializeComponent();
-            this.laSecretaire = s;
-            this.wb = w;
+            this.laSecretaire = laSecretaire;
+            this.wb = wb;
             this.site = site;
-
             string url = this.site + "familles?ticket=" + this.laSecretaire.getHashTicketMdp();
             string reponse = this.wb.DownloadString(url);
             dynamic d = JsonConvert.DeserializeObject(reponse);
-
-            string familles = d.familles.ToString();
-            string ticket = d.ticket;
+            string familles = d.familles.ToString(); 
+            string ticket = d.ticket; 
             this.laSecretaire.ticket = ticket;
             List<Famille> l = JsonConvert.DeserializeObject<List<Famille>>(familles);
             this.cmbFamille.ItemsSource = l;
-            this.cmbFamille.DisplayMemberPath = "idlibelle";
+            this.cmbFamille.DisplayMemberPath = "libelle";
+
         }
+
         private void btnValider_Click(object sender, RoutedEventArgs e)
         {
             try
             {
                 string url = this.site + "famille";
-                string ticket = this.laSecretaire.getHashTicketMdp();
-
-
-                NameValueCollection parametres = new NameValueCollection();
-                parametres.Add("ticket", ticket);
-                parametres.Add("idFamille", ((Famille)this.cmbFamille.SelectedItem).id);
-                parametres.Add("libelle", this.txtLibFamille.Text);
-                byte[] tabByte = wb.UploadValues(url, parametres);
-                string ticketS = UnicodeEncoding.UTF8.GetString(tabByte);
-                MessageBox.Show("Modification apportée");
+                NameValueCollection n = new NameValueCollection();
+                n.Add("ticket",this.laSecretaire.getHashTicketMdp());
+                n.Add("libelle", txtLibFamille.Text);
+                string id = ((Famille)this.cmbFamille.SelectedItem).id;
+                n.Add("idFamille",txtLibFamille.Tag.ToString());
+                byte[] tabByte = wb.UploadValues(url, n);
+                string ticket = UnicodeEncoding.UTF8.GetString(tabByte);
+                this.laSecretaire.ticket = ticket.Substring(2);
+                MessageBox.Show("Vous avez bien modifié la famille");
                 this.Close();
-                this.laSecretaire.ticket = ticketS;
+
             }
             catch (WebException ex)
             {
+
                 if (ex.Response is HttpWebResponse)
                     MessageBox.Show(((HttpWebResponse)ex.Response).StatusCode.ToString());
-
             }
         }
     }
-
-
 }

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>Visite annuelle</motif>
+  <bilan>Pas intÃ©ressÃ© du tout</bilan>
+  <date>2021-06-18T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>Bentot</nomVisiteur>
+  <prenomVisiteur>Pascal</prenomVisiteur>
+  <nomMedecin>ALBERT</nomMedecin>
+  <prenomMedecin>Armelle</prenomMedecin>
+</Rapport><?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>Visite annuelle</motif>
+  <bilan>Peu intÃ©ressÃ©</bilan>
+  <date>2021-12-17T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>Charoze</nomVisiteur>
+  <prenomVisiteur>Catherine</prenomVisiteur>
+  <nomMedecin>ALBERT</nomMedecin>
+  <prenomMedecin>Armelle</prenomMedecin>
+</Rapport>

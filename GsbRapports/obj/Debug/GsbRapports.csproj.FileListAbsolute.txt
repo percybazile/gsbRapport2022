@@ -24,50 +24,143 @@ C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\
 C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.baml
 C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.baml
 C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.baml
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\GsbRapports.exe.config
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\GsbRapports.exe
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\GsbRapports.pdb
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\dllRapportVisites.dll
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\Newtonsoft.Json.dll
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\dllRapportVisites.pdb
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\Newtonsoft.Json.xml
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.AssemblyReference.cache
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.g.cs
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\MainWindow.g.cs
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.g.cs
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.g.cs
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\App.g.cs
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports_MarkupCompile.cache
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports_MarkupCompile.lref
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.baml
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\MainWindow.baml
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.baml
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.baml
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.g.resources
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.Properties.Resources.resources
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.GenerateResource.cache
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.CoreCompileInputs.cache
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.CopyComplete
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.exe
-D:\Greta\Développement\C#\objet\WPF\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.pdb
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\bin\Debug\GsbRapports.exe.config
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\bin\Debug\GsbRapports.exe
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\bin\Debug\GsbRapports.pdb
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\bin\Debug\dllRapportVisites.dll
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\bin\Debug\dllRapportVisites.pdb
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.AssemblyReference.cache
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.g.cs
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\MainWindow.g.cs
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.g.cs
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.g.cs
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\App.g.cs
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports_MarkupCompile.cache
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports_MarkupCompile.lref
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.baml
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\MainWindow.baml
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.baml
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.baml
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.g.resources
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.Properties.Resources.resources
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.GenerateResource.cache
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.CoreCompileInputs.cache
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.CopyComplete
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.exe
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.pdb
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.SuggestedBindingRedirects.cache
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\gererMedecins.g.cs
+C:\Users\Venlo\Downloads\AP mission 2\GsbRapports\GsbRapports\obj\Debug\gererMedecins.baml
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\GsbRapports.exe.config
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\GsbRapports.exe
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\GsbRapports.pdb
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\dllRapportVisites.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\Newtonsoft.Json.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\dllRapportVisites.pdb
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\Newtonsoft.Json.xml
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.AssemblyReference.cache
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.SuggestedBindingRedirects.cache
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.g.cs
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\gererMedecins.g.cs
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\MainWindow.g.cs
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.g.cs
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.g.cs
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\App.g.cs
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports_MarkupCompile.cache
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports_MarkupCompile.lref
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.baml
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\gererMedecins.baml
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\MainWindow.baml
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.baml
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.baml
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.g.resources
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.Properties.Resources.resources
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.GenerateResource.cache
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.CoreCompileInputs.cache
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.CopyComplete
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.exe
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.pdb
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\GsbRapports.exe.config
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\GsbRapports.exe
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\GsbRapports.pdb
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\dllRapportVisites.dll
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\dllRapportVisites.pdb
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.AssemblyReference.cache
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.SuggestedBindingRedirects.cache
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.g.cs
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\gererMedecins.g.cs
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\MainWindow.g.cs
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.g.cs
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.g.cs
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\App.g.cs
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports_MarkupCompile.cache
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports_MarkupCompile.lref
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.baml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\gererMedecins.baml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\MainWindow.baml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.baml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.baml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.g.resources
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.Properties.Resources.resources
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.GenerateResource.cache
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.CoreCompileInputs.cache
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.CopyComplete
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.exe
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\GsbRapports.pdb
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\ajoutMedecin.g.cs
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\ajoutMedecin.baml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\ajoutMedecin.g.cs
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\ajoutMedecin.baml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\MaterialDesignColors.dll
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\ShowMeTheXAML.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\MaterialDesignColors.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\ShowMeTheXAML.dll
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\MaterialDesignColors.pdb
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\rapportMedecins.g.cs
+G:\Mon Drive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\rapportMedecins.baml
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\rapportMedecins.g.cs
+C:\Users\Venlo\Documents\MonDrive\PROGRAMMATION\AP Mission 2\GsbRapports\GsbRapports\obj\Debug\rapportMedecins.baml
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\GsbRapports.exe.config
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\GsbRapports.exe
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\GsbRapports.pdb
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\dllRapportVisites.dll
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\MaterialDesignColors.dll
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\MaterialDesignThemes.Wpf.dll
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\Newtonsoft.Json.dll
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\ShowMeTheXAML.dll
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\dllRapportVisites.pdb
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\MaterialDesignColors.pdb
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\MaterialDesignThemes.Wpf.xml
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\bin\Debug\Newtonsoft.Json.xml
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.csproj.AssemblyReference.cache
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.g.cs
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\ajoutMedecin.g.cs
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\gererMedecins.g.cs
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\MainWindow.g.cs
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.g.cs
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\rapportMedecins.g.cs
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.g.cs
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\App.g.cs
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports_MarkupCompile.cache
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports_MarkupCompile.lref
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\ajoutFamilleWindow.baml
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\ajoutMedecin.baml
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\gererMedecins.baml
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\MainWindow.baml
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\majFamilleWindow.baml
+C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\rapportMedecins.baml
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\VoirFamillesWindow.baml
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.g.resources
 C:\greta\GsbRapportsWPF\GsbRapports\GsbRapports\obj\Debug\GsbRapports.Properties.Resources.resources

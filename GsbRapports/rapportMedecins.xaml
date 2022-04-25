@@ -1,0 +1,17 @@
+﻿<Window x:Class="GsbRapports.rapportMedecins"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GsbRapports"
+        mc:Ignorable="d"
+        Title="rapportMedecins" Height="450" Width="800">
+    <Grid>
+        <DataGrid Margin="21,32,304,68" x:Name="dtgmedecins"></DataGrid>
+        <TextBlock x:Name="txtid" Text="{Binding SelectedItem.id, ElementName=dtgmedecins}" Margin="611,10,0,362"></TextBlock>
+        <DataGrid x:Name="dtgrapports" Margin="538,97,34,68"/>
+        <Button Content="Voir rapports" HorizontalAlignment="Left" Margin="538,52,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="706,388,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

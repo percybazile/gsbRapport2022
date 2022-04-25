@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Rapport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <motif>recommandation de confrère</motif>
+  <bilan>Pas en confiance</bilan>
+  <date>2021-09-14T00:00:00</date>
+  <idMedecin>0</idMedecin>
+  <nomVisiteur>Frémont</nomVisiteur>
+  <prenomVisiteur>Fernande</prenomVisiteur>
+  <nomMedecin>ABEILLE</nomMedecin>
+  <prenomMedecin>Marie</prenomMedecin>
+</Rapport>
