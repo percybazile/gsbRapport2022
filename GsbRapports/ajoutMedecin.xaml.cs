@@ -50,12 +50,12 @@ namespace GsbRapports
                     MessageBox.Show("Ce champ ne doit pas être vide !");
                     ok = false;
                 }
-                if(nom == "")
+                if (nom == "")
                 {
                     MessageBox.Show("Ce champ ne doit pas être vide !");
                     ok = false;
                 }
-                if(adresse == "")
+                if (adresse == "")
                 {
                     MessageBox.Show("Ce champ ne doit pas être vide !");
                     ok = false;
